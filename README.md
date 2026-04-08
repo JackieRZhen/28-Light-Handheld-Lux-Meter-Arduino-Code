@@ -66,5 +66,5 @@ Each log file is saved as a `.TXT` file in the format:
 
 ```text
 Read_Num, Lux_Value, Pct_Deviation
-
+```
 Code by Marko Nguyen for 28-Light.
